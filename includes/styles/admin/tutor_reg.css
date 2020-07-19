@@ -1,0 +1,110 @@
+@import url('../../fonts/fonts.css');
+
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background: url("../../images/admin/TutReg.jpg")no-repeat fixed;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+.card{
+    width: 600px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.99);
+    padding: 2%;
+    color: aliceblue;
+    margin: 120px 10% 10%;
+}
+.card h1{
+    margin: 10px 0;
+    text-transform: capitalize;
+}
+.card input[type="text"],.card input[type="password"], .card input[type="email"], .card textarea{
+    width: 100%;
+    border-radius: 3px;
+    border: none;
+    border-bottom: 2px solid #999999;
+    background:none;
+    color: white;
+    margin: 13px 0;
+    padding: 2%;
+    transition: all 0.5s ease;
+}
+.card input:hover, .card textarea:hover{
+    border-bottom: 2px solid goldenrod;
+}
+.card ::placeholder{
+    color: white;
+    font-size: 1.2em;
+}
+.card input[type="submit"]{
+    width: 100%;
+    height: 50px;
+    padding: 2%;
+    background-color: #0084ff;
+    color: wheat;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2em;
+    transition: 1s ease;
+}
+.card input[type="submit"]:hover{
+    background: #00509b;
+}
+
+.card ol li{
+    margin: 10px;
+}
+.card ol li ul{
+    list-style: none;
+}
+.card ol li ul li{
+    display: inline-block;
+}
+.card ol li ul li a{
+    color: red;
+    text-decoration: none;
+    transition: 0.5s ease;
+    font-weight: bold;
+}
+.card ol li ul li a:hover{
+    color: maroon;
+}
+.card p{
+    line-height: 1.5em;
+    text-align: justify;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+.card p a{
+    color: goldenrod;
+}
+.row{
+    display: flex;
+    width: 100%;
+}
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-right: 8px solid goldenrod;
+}
+@media (max-width:850px){
+    .wrapper{
+        flex-direction: column-reverse;
+    }
+    .card{
+        width: 80%;
+    }.row{
+         display: block;
+     }
+}

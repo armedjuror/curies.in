@@ -1,0 +1,9 @@
+.myrow {
+    display: flex;
+    justify-content: space-around;
+}
+@media (max-width: 830px) {
+    .myrow{
+        display: block;
+    }
+}

@@ -1,0 +1,96 @@
+@import url(../../fonts/fonts.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: montesserat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+/* Basic Desktop view of navigation bar */
+nav{
+    background: deeppink;
+    color: aliceblue;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0px 5px 5px 2px rgba(0, 0, 0, 0.8)  ;
+    top: 0;
+}
+nav .logo {
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 80px;
+    margin: 0px 30px;
+    color:white;
+}
+nav ul{
+    float: right;
+    list-style: none;
+    margin-right: 80px;
+}
+nav ul li{
+    display: inline-block;
+    height: 80px;
+}
+nav ul li a{
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 1.8em;
+    line-height: 80px;
+    transition: all 0.5s ease;
+}
+nav ul li a:hover, .active{
+    color: navy;
+}
+
+
+/* Drop Down */
+#drop{
+    display: none;
+}
+#dropBtn{
+    float: right;
+    margin-right: 20px;
+    font-size: 30px;
+    line-height: 80px;
+    display: none;
+}
+
+@media (max-width: 1200px){
+    nav ul{
+        background: rgba(0,0,0,0.5);
+        width: 100%;
+        height: 100vh;
+        position: absolute;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: 0.5s ease;
+    }nav ul li{
+        display: block;
+    }nav ul li a{
+        font-size: 1.7em;
+        line-height: 100px;
+    }nav ul li a:hover, .active{
+        color: #0082ef;
+    }#dropBtn{
+        display: block;
+    }
+    #drop:checked ~ ul{
+        left: 0;
+    }
+}
+@media (max-width:340px){
+    nav .logo{
+        margin: 0px 10px;
+        font-size: 26px;
+    }
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="721d5f3b-db09-4fae-b19d-9c1801b3eddb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1b9FRVrXeb7ccc6TemUhiYPrrHe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tutor" />
+      <recent name="$PROJECT_DIR$/includes/setup" />
+      <recent name="$PROJECT_DIR$/admin/includes/images" />
+      <recent name="$PROJECT_DIR$/admin/includes/styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tutor/html" />
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/includes/styles/admin" />
+      <recent name="$PROJECT_DIR$/includes/images/admin" />
+      <recent name="$PROJECT_DIR$/includes/admin/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="721d5f3b-db09-4fae-b19d-9c1801b3eddb" name="Default Changelist" comment="" />
+      <created>1588036394839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588036394839</updated>
+      <workItem from="1588036396692" duration="16091000" />
+      <workItem from="1588088800461" duration="4378000" />
+      <workItem from="1588096721991" duration="62372000" />
+      <workItem from="1588250473257" duration="10550000" />
+      <workItem from="1588271997204" duration="6901000" />
+      <workItem from="1588626618437" duration="198000" />
+      <workItem from="1588634171308" duration="7490000" />
+      <workItem from="1588679143911" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="103" width="824" height="901" key="#PHP" timestamp="1588250489430">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="543" y="103" width="824" height="901" key="#PHP/0.32.1920.1048@0.32.1920.1048" timestamp="1588250489430" />
+    <state x="555" y="217" width="810" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588669052345">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="217" width="810" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1588669052345" />
+    <state x="604" y="342" width="701" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588170764386">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="604" y="342" width="701" height="423" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1588170764386" />
+    <state x="693" y="302" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588673606123">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="302" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1588673606123" />
+    <state x="703" y="314" key="FileChooserDialogImpl" timestamp="1588282236753">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="703" y="314" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1588282236753" />
+    <state width="349" height="606" key="HiddenNamespacesPopup" timestamp="1588194310679">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="349" height="606" key="HiddenNamespacesPopup/0.32.1920.1048@0.32.1920.1048" timestamp="1588194310679" />
+    <state x="682" y="241" width="546" height="626" key="NewPhpClassDialog" timestamp="1588170741663">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="682" y="241" width="546" height="626" key="NewPhpClassDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1588170741663" />
+    <state x="712" y="475" width="366" height="158" key="NewPhpFileDialog" timestamp="1588626637654">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="712" y="475" width="366" height="158" key="NewPhpFileDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1588626637654" />
+    <state x="426" y="191" key="SettingsEditor" timestamp="1588092422121">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="426" y="191" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1588092422121" />
+    <state x="602" y="263" width="713" height="678" key="search.everywhere.popup" timestamp="1588670276472">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="602" y="263" width="713" height="678" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1588670276472" />
+  </component>
+</project>

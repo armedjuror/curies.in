@@ -1,0 +1,34 @@
+Username : curies-admin
+Password : )69vBF8h1&nvYr4q7I
+
+
+user1
+username : fawaznoor
+password : A@zH4570$6EiU3MCT*w#RKS*
+
+
+database
+db_name : curiesin_registration
+username : curiesin_admin
+password : (?.rlS5b9tpk
+
+db_name : curiesin_examify
+username : curiesin_examify_admin
+password : uOkswI9&Fp3k
+
+examify - class 11
+username : class11@curies.in
+password : Wc$xhL!Qg4i(
+Same password for email client also
+
+examify - class 12
+username : class12@curies.in
+password : y#%5wriv&ck1
+Same password for email client also
+
+examify - trial
+username : curiesonline@gmail.com
+password : Trial@curies
+
+322495866
+1540622468

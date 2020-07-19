@@ -1,0 +1,29 @@
+.inline-form{
+    width: 100%;
+    height: 50px;
+    border-radius: inherit;
+    padding: 3%;
+}
+.inline-form input[type='text'],.inline-form select{
+    height: 50px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #222222;
+    margin-right: 10px;
+}
+.inline-form input[type='submit']{
+    float: right;
+    margin-right: 2%;
+    height: 50px;
+
+}
+.examCreate {
+    height: 30px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #222222;
+}
+.q_img {
+    max-width: 500px;
+    max-height: 500px;
+}

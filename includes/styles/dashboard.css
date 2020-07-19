@@ -1,0 +1,110 @@
+@import "../fonts/fonts.css";
+* {
+    padding: 0;
+    margin: 0;
+    font-family: montesserat, serif;
+}
+.wrapper{
+    display: inline-flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 100px;
+}
+.card{
+    display: block;
+    background: rgba(255,255,255,0.7);
+    text-align: center;
+    color: #222222;
+    border-radius: 8px;
+    width: 40%;
+    margin: 15px auto;
+    overflow: hidden;
+}
+.card .content{
+    width: 100%;
+    padding: 2%;
+    text-align: center;
+    align-content: center;
+}
+.card .content ul{
+    list-style: none;
+    text-align: justify;
+    margin: fill fill 80px;
+}
+ .card .content ul li{
+    display: block;
+    width: 100%;
+    padding: 10px;
+ }
+ .button{
+     width: 100%;
+     height: 80px;
+     background: #028dff;
+     border: none;
+     color: white;
+     font-size: 1.5em;
+     transition: 0.5s ease;
+     position: relative;
+     bottom: 0;
+     left: 0;
+ }
+ .button:hover{
+     color: navy;
+ }
+
+/* Task Card*/
+.tasks ol{
+    padding: 0;
+}
+ .tasks li{
+     list-style: none;
+     height: 50px;
+     background: #d4d4d4;
+     color: #222222;
+     margin: 2px 0;
+ }
+ .tasks li span{
+     float: left;
+     line-height: 50px;
+     margin-left: 20px;
+ }
+ .tasks li i{
+     float: right;
+     line-height: 50px;
+     margin-right: 20px;
+ }
+ .inline{
+     display: block;
+     width: 100%;
+     background: #028dff;
+     color: white;
+     font-size: 1em;
+     line-height: 80px;
+     text-align: left;
+     padding: 0 10px;
+ }
+.inline input[type='text'],.inline input[type='date']{
+    width: 200px;
+    height: 30px;
+    border: 2px solid navy;
+    color: #333;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+.inline input[type='submit']{
+    height: 30px;
+    background: red;
+    color: white;
+    padding: 0 10px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+@media (max-width : 900px) {
+    .wrapper{
+        display: block;
+    }
+    .card{
+        width: 80%;
+    }
+}
